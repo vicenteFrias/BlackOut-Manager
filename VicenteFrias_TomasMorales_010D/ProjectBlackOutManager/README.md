@@ -54,7 +54,8 @@ Accede a phpMyAdmin y crea la base de datos correspondiente al proyecto.
 Clonar el repositorio:
 
 Bash
-git clone [URL_DE_TU_REPOSITORIO]
+git clone https://github.com/vicenteFrias/BlackOut-Manager.git
+
 Configuración:
 
 Revisa el archivo src/main/resources/application.properties y asegúrate de que las credenciales de MySQL (user y password) coincidan con las de tu XAMPP.
