@@ -64,6 +64,7 @@ Ejecución con Maven:
 
 Bash
 mvn spring-boot:run
+
 Pruebas de la API:
 
 Puedes utilizar Postman para testear los endpoints de la API (JSON) importando la colección de rutas del proyecto.  
