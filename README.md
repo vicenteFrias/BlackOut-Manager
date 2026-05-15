@@ -1,4 +1,5 @@
 BlackOut Manager 🎨📓
+
 BlackOut Manager es una solución integral diseñada para tatuadores y artistas que buscan profesionalizar la gestión de su estudio. El sistema centraliza la administración de citas, el control financiero y el seguimiento de inventario en una plataforma robusta y eficiente.  
 
 👥 Integrantes
@@ -17,7 +18,7 @@ Gestión de Clientes: Registro detallado de pacientes, incluyendo datos de conta
 
 Gestión Financiera: Registro independiente de ingresos por proyectos y control de gastos en materiales o inversión.  
 
-Control de Stock: Inventario en tiempo real de insumos críticos como tintas, agujas y guantes, con métricas sobre los productos más utilizados.  
+Control de Productos: Inventario en tiempo real de insumos críticos como tintas, agujas y guantes, con métricas sobre los productos más utilizados.  
 
 🛠️ Stack Tecnológico
 
