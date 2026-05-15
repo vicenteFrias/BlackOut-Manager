@@ -14,7 +14,7 @@ Módulo de Cartera (Nuevo): Permite visualizar de forma rápida el saldo total d
 
 Módulo de Agenda: Gestión completa de citas (creación, modificación, eliminación) con visualización en calendario para organizar las sesiones de tatuaje y horas personales.  
 
-Gestión de Clientes: Registro detallado de pacientes, incluyendo datos de contacto y especificaciones de los diseños a realizar.  
+Gestión de Usuarios: Registro detallado de usuarios, incluyendo datos de contacto.  
 
 Gestión Financiera: Registro independiente de ingresos por proyectos y control de gastos en materiales o inversión.  
 
@@ -63,6 +63,7 @@ Ejecución con Maven:
 
 Bash
 mvn spring-boot:run
+
 Pruebas de la API:
 
 Puedes utilizar Postman para testear los endpoints de la API (JSON) importando la colección de rutas del proyecto.  
